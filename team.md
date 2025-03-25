@@ -1,2 +1,2 @@
 "Team lead: Patricia Mboma Kashweka"
-"Team lead: Ntuli Chimangila"
+"Team lead: Ntuli .C. Chimangila"
